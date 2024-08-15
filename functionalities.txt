@@ -1,1 +1,4 @@
 -greeting new user
+-getting name
+-asking for expeience
+-saying bye

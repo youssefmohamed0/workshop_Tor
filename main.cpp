@@ -31,6 +31,7 @@ int main()
     greet();
     string name = askForName();
     int experience = askForExperience();
+    bye(name);
     return 0;
 }
 
