@@ -21,6 +21,11 @@ string askForName()
     return name;
 }
 
+void bye(string name)
+{
+    cout<<"Thank you "<< name<<" for using our program!"<<endl;
+}
+
 int main()
 {
     greet();
